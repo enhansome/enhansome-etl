@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airflow",
+          "description": "\"Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:49:16Z",
+            "owner": "apache",
+            "repo": "airflow",
+            "stars": 46457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prefect",
+          "description": "\"a workflow orchestration framework for building resilient data pipelines in Python.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:09:01Z",
+            "owner": "PrefectHQ",
+            "repo": "prefect",
+            "stars": 23609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Luigi",
+          "description": "\"a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T11:15:46Z",
+            "owner": "spotify",
+            "repo": "luigi",
+            "stars": 18764
+          }
+        }
+      ],
+      "title": "Workflow Management/Engines"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "polars",
+          "description": "\"Extremely fast Query Engine for DataFrames, written in Rust.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:37:19Z",
+            "owner": "pola-rs",
+            "repo": "polars",
+            "stars": 39343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dask",
+          "description": "\"a flexible parallel computing library for analytics.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:03:29Z",
+            "owner": "dask",
+            "repo": "dask",
+            "stars": 13886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dbt-core",
+          "description": "\"enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:35:42Z",
+            "owner": "dbt-labs",
+            "repo": "dbt-core",
+            "stars": 13633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tenacity",
+          "description": "\"a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T06:51:35Z",
+            "owner": "jd",
+            "repo": "tenacity",
+            "stars": 8745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xmltodict",
+          "description": "\"Python module that makes working with XML feel like you are working with JSON.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T17:40:19Z",
+            "owner": "martinblech",
+            "repo": "xmltodict",
+            "stars": 5751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ingestr",
+          "description": "\"a CLI tool to copy data between any databases with a single command seamlessly.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:06:36Z",
+            "owner": "bruin-data",
+            "repo": "ingestr",
+            "stars": 3837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lxml",
+          "description": "\"the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T11:44:35Z",
+            "owner": "lxml",
+            "repo": "lxml",
+            "stars": 3045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamilton",
+          "description": "\"helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T18:39:49Z",
+            "owner": "apache",
+            "repo": "hamilton",
+            "stars": 2562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parse",
+          "description": "\"Parse strings using a specification based on the Python format() syntax.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T05:49:14Z",
+            "owner": "r1chardj0n3s",
+            "repo": "parse",
+            "stars": 1790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PETL",
+          "description": "\"a general purpose Python package for extracting, transforming and loading tables of data.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T00:19:42Z",
+            "owner": "petl-developers",
+            "repo": "petl",
+            "stars": 1314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ijson",
+          "description": "\"Iterative JSON parser with Pythonic interfaces.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T22:59:16Z",
+            "owner": "ICRAR",
+            "repo": "ijson",
+            "stars": 1093
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nokogiri",
+          "description": "\"Nokogiri makes it easy and painless to work with XML and HTML from Ruby.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T06:44:39Z",
+            "owner": "sparklemotion",
+            "repo": "nokogiri",
+            "stars": 6276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequel",
+          "description": "\"a simple, flexible, and powerful SQL database access toolkit for Ruby.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T04:40:15Z",
+            "owner": "jeremyevans",
+            "repo": "sequel",
+            "stars": 5091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embulk",
+          "description": "\"a parallel bulk data loader that helps data transfer between various storages, databases, NoSQL and cloud services.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-19T12:52:35Z",
+            "owner": "embulk",
+            "repo": "embulk",
+            "stars": 1784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kiba",
+          "description": "\"lets you define and run high-quality ETL jobs using Ruby.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-10T19:13:05Z",
+            "owner": "thbar",
+            "repo": "kiba",
+            "stars": 1775
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudQuery",
+          "description": "\"a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:22:21Z",
+            "owner": "cloudquery",
+            "repo": "cloudquery",
+            "stars": 6480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pachyderm",
+          "description": "\"provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-03T22:27:18Z",
+            "owner": "pachyderm",
+            "repo": "pachyderm",
+            "stars": 6303
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:56.699Z",
+    "original_repository": "pawl/awesome-etl",
+    "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
+    "enhanced_repository": "enhansome/enhansome-etl",
+    "enhanced_repository_description": null,
+    "title": "Awesome ETL with stars"
+  }
+}
