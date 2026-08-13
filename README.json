@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:49:16Z",
+            "last_commit": "2026-08-13T13:56:31Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46457
+            "stars": 46465
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T03:09:01Z",
+            "last_commit": "2026-08-13T08:33:56Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23609
+            "stars": 23612
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T16:37:19Z",
+            "last_commit": "2026-08-13T13:25:31Z",
             "owner": "pola-rs",
             "repo": "polars",
-            "stars": 39343
+            "stars": 39348
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T00:35:42Z",
+            "last_commit": "2026-08-13T09:31:49Z",
             "owner": "dbt-labs",
             "repo": "dbt-core",
-            "stars": 13633
+            "stars": 13635
           }
         },
         {
@@ -134,10 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T16:06:36Z",
+            "last_commit": "2026-08-13T13:45:01Z",
             "owner": "bruin-data",
             "repo": "ingestr",
-            "stars": 3837
+            "stars": 3838
           }
         },
         {
@@ -148,7 +148,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-06T11:44:35Z",
+            "last_commit": "2026-08-13T11:44:08Z",
             "owner": "lxml",
             "repo": "lxml",
             "stars": 3045
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-11T18:39:49Z",
+            "last_commit": "2026-08-13T09:03:24Z",
             "owner": "apache",
             "repo": "hamilton",
             "stars": 2562
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-10T06:44:39Z",
             "owner": "sparklemotion",
             "repo": "nokogiri",
-            "stars": 6276
+            "stars": 6275
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-08-12T12:22:21Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6480
+            "stars": 6481
           }
         },
         {
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:59:56.699Z",
+    "last_updated": "2026-08-13T14:02:48.666Z",
     "original_repository": "pawl/awesome-etl",
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
     "enhanced_repository": "enhansome/enhansome-etl",
