@@ -12,7 +12,7 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-19T12:17:18Z",
+            "last_commit": "2026-08-19T12:29:43Z",
             "owner": "apache",
             "repo": "airflow",
             "stars": 46535
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-19T10:30:48Z",
+                "last_commit": "2026-08-19T13:20:51Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39389
+                "stars": 39391
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-19T10:37:36Z",
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3846
+                "stars": 3848
               }
             },
             {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-18T16:20:40Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6483
+            "stars": 6484
           }
         },
         {
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:09.299Z",
+    "last_updated": "2026-08-19T13:26:51.523Z",
     "original_repository": "pawl/awesome-etl",
     "original_repository_id": 43790983,
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",

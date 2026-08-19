@@ -31,7 +31,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Job Scheduling
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,467 | 🐛 3,623 | 🌐 Java | 📅 2026-08-19 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,468 | 🐛 3,623 | 🌐 Java | 📅 2026-08-19 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
 
 ## Java
 
@@ -42,12 +42,12 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ### Libraries
 
-* [polars](https://github.com/pola-rs/polars) ⭐ 39,389 | 🐛 2,861 | 🌐 Rust | 📅 2026-08-19 - "Extremely fast Query Engine for DataFrames, written in Rust."
+* [polars](https://github.com/pola-rs/polars) ⭐ 39,391 | 🐛 2,860 | 🌐 Rust | 📅 2026-08-19 - "Extremely fast Query Engine for DataFrames, written in Rust."
 * [Dask](https://github.com/dask/dask) ⭐ 13,891 | 🐛 1,310 | 🌐 Python | 📅 2026-08-17 - "a flexible parallel computing library for analytics."
-* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,661 | 🐛 1,530 | 🌐 Rust | 📅 2026-08-19 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,661 | 🐛 1,528 | 🌐 Rust | 📅 2026-08-19 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
 * [tenacity](https://github.com/jd/tenacity) ⭐ 8,751 | 🐛 43 | 🌐 Python | 📅 2026-08-06 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
 * [xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,751 | 🐛 7 | 🌐 Python | 📅 2026-06-15 - "Python module that makes working with XML feel like you are working with JSON."
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,846 | 🐛 15 | 🌐 Go | 📅 2026-08-19 - "a CLI tool to copy data between any databases with a single command seamlessly."
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,848 | 🐛 15 | 🌐 Go | 📅 2026-08-19 - "a CLI tool to copy data between any databases with a single command seamlessly."
 * [lxml](https://github.com/lxml/lxml) ⭐ 3,047 | 🐛 12 | 🌐 Python | 📅 2026-08-18 - "the most feature-rich and easy-to-use library for processing XML and HTML in the Python language."
 * [hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,569 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2026-08-19 - "helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
 * [parse](https://github.com/r1chardj0n3s/parse) ⭐ 1,790 | 🐛 38 | 🌐 Python | 📅 2026-08-01 - "Parse strings using a specification based on the Python format() syntax."
@@ -76,7 +76,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Go
 
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,483 | 🐛 166 | 🌐 Go | 📅 2026-08-18 - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,484 | 🐛 166 | 🌐 Go | 📅 2026-08-18 - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
 * [Pachyderm](https://github.com/pachyderm/pachyderm) ⭐ 6,305 | 🐛 939 | 🌐 Go | 📅 2025-02-03 - "provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking."
 * [Redpanda Connect](https://www.redpanda.com/connect) - "a declarative data streaming and integration tool with 300+ pre-built connectors, configured via YAML."
 
@@ -109,7 +109,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 * [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - An ETL tool for extracting data from source systems, transforming it, and loading it into target systems using a visual mapping and workflow designer.
 * [Microsoft SSIS](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
-* [N8n](https://github.com/n8n-io/n8n) ⭐ 201,168 | 🐛 1,071 | 🌐 TypeScript | 📅 2026-08-19 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
+* [N8n](https://github.com/n8n-io/n8n) ⭐ 201,179 | 🐛 1,073 | 🌐 TypeScript | 📅 2026-08-19 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [Pentaho Data Integration (PDI)](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html) - "a graphical ETL tool for designing data integration workflows using a drag-and-drop interface, also known as Kettle."
 
 ## Further Reading
