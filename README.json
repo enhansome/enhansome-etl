@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-18T13:05:56Z",
+            "last_commit": "2026-08-19T12:17:18Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46520
+            "stars": 46535
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-18T13:19:45Z",
+            "last_commit": "2026-08-19T08:12:16Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23634
+            "stars": 23641
           }
         },
         {
@@ -38,183 +40,197 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5888353,
             "language": "Python",
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18765
+            "stars": 18766
           }
         }
       ],
       "title": "Workflow Management/Engines"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "polars",
+              "description": "\"Extremely fast Query Engine for DataFrames, written in Rust.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263727855,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:30:48Z",
+                "owner": "pola-rs",
+                "repo": "polars",
+                "stars": 39389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dask",
+              "description": "\"a flexible parallel computing library for analytics.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28782747,
+                "language": "Python",
+                "last_commit": "2026-08-17T14:33:18Z",
+                "owner": "dask",
+                "repo": "dask",
+                "stars": 13891
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dbt-core",
+              "description": "\"enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53548867,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:35:17Z",
+                "owner": "dbt-labs",
+                "repo": "dbt-core",
+                "stars": 13661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tenacity",
+              "description": "\"a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65468547,
+                "language": "Python",
+                "last_commit": "2026-08-06T06:51:35Z",
+                "owner": "jd",
+                "repo": "tenacity",
+                "stars": 8751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xmltodict",
+              "description": "\"Python module that makes working with XML feel like you are working with JSON.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4053456,
+                "language": "Python",
+                "last_commit": "2026-06-15T17:40:19Z",
+                "owner": "martinblech",
+                "repo": "xmltodict",
+                "stars": 5751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ingestr",
+              "description": "\"a CLI tool to copy data between any databases with a single command seamlessly.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756594023,
+                "language": "Go",
+                "last_commit": "2026-08-19T10:37:36Z",
+                "owner": "bruin-data",
+                "repo": "ingestr",
+                "stars": 3846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lxml",
+              "description": "\"the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1353927,
+                "language": "Python",
+                "last_commit": "2026-08-18T17:12:55Z",
+                "owner": "lxml",
+                "repo": "lxml",
+                "stars": 3047
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hamilton",
+              "description": "\"helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605682921,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-19T04:38:48Z",
+                "owner": "apache",
+                "repo": "hamilton",
+                "stars": 2569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parse",
+              "description": "\"Parse strings using a specification based on the Python format() syntax.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2793435,
+                "language": "Python",
+                "last_commit": "2026-08-01T05:49:14Z",
+                "owner": "r1chardj0n3s",
+                "repo": "parse",
+                "stars": 1790
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PETL",
+              "description": "\"a general purpose Python package for extracting, transforming and loading tables of data.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2233194,
+                "language": "Python",
+                "last_commit": "2026-08-05T00:19:42Z",
+                "owner": "petl-developers",
+                "repo": "petl",
+                "stars": 1315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ijson",
+              "description": "\"Iterative JSON parser with Pythonic interfaces.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191300063,
+                "language": "Python",
+                "last_commit": "2026-08-10T22:59:16Z",
+                "owner": "ICRAR",
+                "repo": "ijson",
+                "stars": 1093
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        }
+      ],
       "title": "Python"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "polars",
-          "description": "\"Extremely fast Query Engine for DataFrames, written in Rust.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T13:24:27Z",
-            "owner": "pola-rs",
-            "repo": "polars",
-            "stars": 39376
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dask",
-          "description": "\"a flexible parallel computing library for analytics.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T14:33:18Z",
-            "owner": "dask",
-            "repo": "dask",
-            "stars": 13890
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dbt-core",
-          "description": "\"enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T11:27:49Z",
-            "owner": "dbt-labs",
-            "repo": "dbt-core",
-            "stars": 13655
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tenacity",
-          "description": "\"a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-06T06:51:35Z",
-            "owner": "jd",
-            "repo": "tenacity",
-            "stars": 8750
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xmltodict",
-          "description": "\"Python module that makes working with XML feel like you are working with JSON.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T17:40:19Z",
-            "owner": "martinblech",
-            "repo": "xmltodict",
-            "stars": 5751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ingestr",
-          "description": "\"a CLI tool to copy data between any databases with a single command seamlessly.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:13:10Z",
-            "owner": "bruin-data",
-            "repo": "ingestr",
-            "stars": 3845
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lxml",
-          "description": "\"the most feature-rich and easy-to-use library for processing XML and HTML in the Python language.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T12:02:33Z",
-            "owner": "lxml",
-            "repo": "lxml",
-            "stars": 3047
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hamilton",
-          "description": "\"helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T21:35:37Z",
-            "owner": "apache",
-            "repo": "hamilton",
-            "stars": 2568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parse",
-          "description": "\"Parse strings using a specification based on the Python format() syntax.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T05:49:14Z",
-            "owner": "r1chardj0n3s",
-            "repo": "parse",
-            "stars": 1790
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PETL",
-          "description": "\"a general purpose Python package for extracting, transforming and loading tables of data.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T00:19:42Z",
-            "owner": "petl-developers",
-            "repo": "petl",
-            "stars": 1315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ijson",
-          "description": "\"Iterative JSON parser with Pythonic interfaces.\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T22:59:16Z",
-            "owner": "ICRAR",
-            "repo": "ijson",
-            "stars": 1093
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -223,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33945,
             "language": "C",
             "last_commit": "2026-08-14T15:44:39Z",
             "owner": "sparklemotion",
@@ -237,8 +254,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5954,
             "language": "Ruby",
-            "last_commit": "2026-08-15T23:07:10Z",
+            "last_commit": "2026-08-19T01:54:07Z",
             "owner": "jeremyevans",
             "repo": "sequel",
             "stars": 5092
@@ -251,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24084730,
             "language": "Java",
             "last_commit": "2026-06-19T12:52:35Z",
             "owner": "embulk",
@@ -265,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11515100,
             "language": "Ruby",
             "last_commit": "2026-01-10T19:13:05Z",
             "owner": "thbar",
@@ -276,7 +296,7 @@
       "title": "Ruby"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -285,11 +305,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313853293,
             "language": "Go",
-            "last_commit": "2026-08-17T06:34:49Z",
+            "last_commit": "2026-08-18T16:20:40Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6482
+            "stars": 6483
           }
         },
         {
@@ -299,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23653453,
             "language": "Go",
             "last_commit": "2025-02-03T22:27:18Z",
             "owner": "pachyderm",
@@ -308,16 +330,12 @@
         }
       ],
       "title": "Go"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:25:30.780Z",
+    "last_updated": "2026-08-19T12:26:09.299Z",
     "original_repository": "pawl/awesome-etl",
+    "original_repository_id": 43790983,
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
     "enhanced_repository": "enhansome/enhansome-etl",
     "enhanced_repository_description": null,
