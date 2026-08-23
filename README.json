@@ -12,10 +12,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-22T08:28:21Z",
+            "last_commit": "2026-08-23T10:58:29Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46576
+            "stars": 46584
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-22T08:08:27Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23651
+            "stars": 23657
           }
         },
         {
@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-22T11:38:14Z",
+                "last_commit": "2026-08-23T12:27:44Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39440
+                "stars": 39455
               }
             },
             {
@@ -95,10 +95,10 @@
                 "archived": false,
                 "id": 53548867,
                 "language": "Rust",
-                "last_commit": "2026-08-22T12:02:18Z",
+                "last_commit": "2026-08-23T09:11:58Z",
                 "owner": "dbt-labs",
                 "repo": "dbt-core",
-                "stars": 13676
+                "stars": 13679
               }
             },
             {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-08-06T06:51:35Z",
                 "owner": "jd",
                 "repo": "tenacity",
-                "stars": 8758
+                "stars": 8761
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-21T15:01:04Z",
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3856
+                "stars": 3857
               }
             },
             {
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 1353927,
                 "language": "Python",
-                "last_commit": "2026-08-22T06:00:23Z",
+                "last_commit": "2026-08-22T13:42:54Z",
                 "owner": "lxml",
                 "repo": "lxml",
-                "stars": 3049
+                "stars": 3050
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-01T05:49:14Z",
                 "owner": "r1chardj0n3s",
                 "repo": "parse",
-                "stars": 1789
+                "stars": 1790
               }
             },
             {
@@ -310,7 +310,7 @@
             "last_commit": "2026-08-22T01:10:48Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6490
+            "stars": 6491
           }
         },
         {
@@ -333,7 +333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:11:18.826Z",
+    "last_updated": "2026-08-23T13:14:59.364Z",
     "original_repository": "pawl/awesome-etl",
     "original_repository_id": 43790983,
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
