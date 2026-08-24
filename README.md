@@ -21,7 +21,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Workflow Management/Engines
 
-* [Airflow](https://github.com/apache/airflow) ⭐ 46,595 | 🐛 1,925 | 🌐 Python | 📅 2026-08-24 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
+* [Airflow](https://github.com/apache/airflow) ⭐ 46,596 | 🐛 1,925 | 🌐 Python | 📅 2026-08-24 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
 * [prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,666 | 🐛 863 | 🌐 Python | 📅 2026-08-24 - "a workflow orchestration framework for building resilient data pipelines in Python."
 * [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 169 | 🌐 Python | 📅 2026-07-18 - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
 * [Argo](https://argoproj.github.io/) - "an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes."
@@ -35,16 +35,16 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Java
 
-* [Apache Camel](https://github.com/apache/camel) ⭐ 6,296 | 🐛 65 | 🌐 Java | 📅 2026-08-24 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+* [Apache Camel](https://github.com/apache/camel) ⭐ 6,296 | 🐛 67 | 🌐 Java | 📅 2026-08-24 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
 * [Spring Batch](https://spring.io/projects/spring-batch) - "A lightweight, comprehensive batch framework designed to enable the development of robust batch applications that are vital for the daily operations of enterprise systems."
 
 ## Python
 
 ### Libraries
 
-* [polars](https://github.com/pola-rs/polars) ⭐ 39,468 | 🐛 2,864 | 🌐 Rust | 📅 2026-08-24 - "Extremely fast Query Engine for DataFrames, written in Rust."
+* [polars](https://github.com/pola-rs/polars) ⭐ 39,468 | 🐛 2,863 | 🌐 Rust | 📅 2026-08-24 - "Extremely fast Query Engine for DataFrames, written in Rust."
 * [Dask](https://github.com/dask/dask) ⭐ 13,895 | 🐛 1,312 | 🌐 Python | 📅 2026-08-17 - "a flexible parallel computing library for analytics."
-* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,685 | 🐛 1,567 | 🌐 Rust | 📅 2026-08-24 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,684 | 🐛 1,567 | 🌐 Rust | 📅 2026-08-24 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
 * [tenacity](https://github.com/jd/tenacity) ⭐ 8,761 | 🐛 44 | 🌐 Python | 📅 2026-08-06 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
 * [xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,750 | 🐛 5 | 🌐 Python | 📅 2026-08-19 - "Python module that makes working with XML feel like you are working with JSON."
 * [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,859 | 🐛 16 | 🌐 Go | 📅 2026-08-21 - "a CLI tool to copy data between any databases with a single command seamlessly."
@@ -105,11 +105,11 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 *Warning*: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the ["inner-platform effect"](https://en.wikipedia.org/wiki/Inner-platform_effect). With a large project, you will most likely run into instances where "the tool doesn't do that" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.
 
+* [N8n](https://github.com/n8n-io/n8n) ⭐ 202,254 | 🐛 1,078 | 🌐 TypeScript | 📅 2026-08-24 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 * [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - An ETL tool for extracting data from source systems, transforming it, and loading it into target systems using a visual mapping and workflow designer.
 * [Microsoft SSIS](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services) - "a component of the Microsoft SQL Server database software that can be used to perform a broad range of data migration tasks."
-* [N8n](https://github.com/n8n-io/n8n) ⭐ 202,253 | 🐛 1,081 | 🌐 TypeScript | 📅 2026-08-24 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [Pentaho Data Integration (PDI)](https://www.hitachivantara.com/en-us/products/pentaho-platform/data-integration-analytics.html) - "a graphical ETL tool for designing data integration workflows using a drag-and-drop interface, also known as Kettle."
 
 ## Further Reading

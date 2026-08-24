@@ -12,10 +12,10 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-24T13:25:26Z",
+            "last_commit": "2026-08-24T13:36:59Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46595
+            "stars": 46596
           }
         },
         {
@@ -55,6 +55,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Jenkins",
+          "description": "\"the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1103607,
+            "language": "Java",
+            "last_commit": "2026-08-24T00:53:02Z",
+            "owner": "jenkinsci",
+            "repo": "jenkins",
+            "stars": 26485
+          }
+        }
+      ],
+      "title": "Job Scheduling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Apache Camel",
+          "description": "\"an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206317,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:53:25Z",
+            "owner": "apache",
+            "repo": "camel",
+            "stars": 6296
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -65,7 +107,7 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:29:28Z",
+                "last_commit": "2026-08-24T13:50:33Z",
                 "owner": "pola-rs",
                 "repo": "polars",
                 "stars": 39468
@@ -98,7 +140,7 @@
                 "last_commit": "2026-08-24T11:44:24Z",
                 "owner": "dbt-labs",
                 "repo": "dbt-core",
-                "stars": 13685
+                "stars": 13684
               }
             },
             {
@@ -330,10 +372,52 @@
         }
       ],
       "title": "Go"
+    },
+    {
+      "description": "Warning: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the \"inner-platform effect\". With a large project, you will most likely run into instances where \"the tool doesn't do that\" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "N8n",
+          "description": "\"Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193215554,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T13:54:52Z",
+            "owner": "n8n-io",
+            "repo": "n8n",
+            "stars": 202254
+          }
+        }
+      ],
+      "title": "ETL Tools (GUI)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-pipeline",
+          "description": "A curated list of awesome pipeline toolkits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22013111,
+            "language": null,
+            "last_commit": "2026-08-04T07:45:32Z",
+            "owner": "pditommaso",
+            "repo": "awesome-pipeline",
+            "stars": 6623
+          }
+        }
+      ],
+      "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:32:35.041Z",
+    "last_updated": "2026-08-24T13:57:31.266Z",
     "original_repository": "pawl/awesome-etl",
     "original_repository_id": 43790983,
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
