@@ -21,8 +21,8 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Workflow Management/Engines
 
-* [Airflow](https://github.com/apache/airflow) ⭐ 46,598 | 🐛 1,932 | 🌐 Python | 📅 2026-08-25 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
-* [prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,672 | 🐛 862 | 🌐 Python | 📅 2026-08-25 - "a workflow orchestration framework for building resilient data pipelines in Python."
+* [Airflow](https://github.com/apache/airflow) ⭐ 46,601 | 🐛 1,935 | 🌐 Python | 📅 2026-08-25 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
+* [prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,680 | 🐛 864 | 🌐 Python | 📅 2026-08-25 - "a workflow orchestration framework for building resilient data pipelines in Python."
 * [Luigi](https://github.com/spotify/luigi) ⭐ 18,765 | 🐛 170 | 🌐 Python | 📅 2026-07-18 - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
 * [Argo](https://argoproj.github.io/) - "an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes."
 * [Dagster](https://dagster.io) - "Dagster is a data orchestrator for machine learning, analytics, and ETL. It lets you define pipelines in terms of the data flow between reusable, logical components, then test locally and run anywhere. With a unified view of pipelines and the assets they produce, Dagster can schedule and orchestrate Pandas, Spark, SQL, or anything else that Python can invoke."
@@ -31,23 +31,23 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Job Scheduling
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,491 | 🐛 3,606 | 🌐 Java | 📅 2026-08-25 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,489 | 🐛 3,606 | 🌐 Java | 📅 2026-08-25 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
 
 ## Java
 
-* [Apache Camel](https://github.com/apache/camel) ⭐ 6,297 | 🐛 48 | 🌐 Java | 📅 2026-08-25 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+* [Apache Camel](https://github.com/apache/camel) ⭐ 6,297 | 🐛 57 | 🌐 Java | 📅 2026-08-25 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
 * [Spring Batch](https://spring.io/projects/spring-batch) - "A lightweight, comprehensive batch framework designed to enable the development of robust batch applications that are vital for the daily operations of enterprise systems."
 
 ## Python
 
 ### Libraries
 
-* [polars](https://github.com/pola-rs/polars) ⭐ 39,478 | 🐛 2,869 | 🌐 Rust | 📅 2026-08-24 - "Extremely fast Query Engine for DataFrames, written in Rust."
-* [Dask](https://github.com/dask/dask) ⭐ 13,895 | 🐛 1,312 | 🌐 Python | 📅 2026-08-24 - "a flexible parallel computing library for analytics."
-* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,685 | 🐛 1,564 | 🌐 Rust | 📅 2026-08-25 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-* [tenacity](https://github.com/jd/tenacity) ⭐ 8,762 | 🐛 44 | 🌐 Python | 📅 2026-08-06 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
+* [polars](https://github.com/pola-rs/polars) ⭐ 39,483 | 🐛 2,853 | 🌐 Rust | 📅 2026-08-25 - "Extremely fast Query Engine for DataFrames, written in Rust."
+* [Dask](https://github.com/dask/dask) ⭐ 13,896 | 🐛 1,311 | 🌐 Python | 📅 2026-08-24 - "a flexible parallel computing library for analytics."
+* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 13,686 | 🐛 1,564 | 🌐 Rust | 📅 2026-08-25 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+* [tenacity](https://github.com/jd/tenacity) ⭐ 8,763 | 🐛 44 | 🌐 Python | 📅 2026-08-06 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
 * [xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,751 | 🐛 5 | 🌐 Python | 📅 2026-08-19 - "Python module that makes working with XML feel like you are working with JSON."
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,860 | 🐛 18 | 🌐 Go | 📅 2026-08-21 - "a CLI tool to copy data between any databases with a single command seamlessly."
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 3,860 | 🐛 17 | 🌐 Go | 📅 2026-08-25 - "a CLI tool to copy data between any databases with a single command seamlessly."
 * [lxml](https://github.com/lxml/lxml) ⭐ 3,051 | 🐛 12 | 🌐 Python | 📅 2026-08-22 - "the most feature-rich and easy-to-use library for processing XML and HTML in the Python language."
 * [hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,574 | 🐛 154 | 🌐 Jupyter Notebook | 📅 2026-08-19 - "helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
 * [parse](https://github.com/r1chardj0n3s/parse) ⭐ 1,791 | 🐛 38 | 🌐 Python | 📅 2026-08-01 - "Parse strings using a specification based on the Python format() syntax."
@@ -105,7 +105,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 *Warning*: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the ["inner-platform effect"](https://en.wikipedia.org/wiki/Inner-platform_effect). With a large project, you will most likely run into instances where "the tool doesn't do that" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.
 
-* [N8n](https://github.com/n8n-io/n8n) ⭐ 202,330 | 🐛 1,077 | 🌐 TypeScript | 📅 2026-08-25 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
+* [N8n](https://github.com/n8n-io/n8n) ⭐ 202,369 | 🐛 1,085 | 🌐 TypeScript | 📅 2026-08-25 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 * [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - An ETL tool for extracting data from source systems, transforming it, and loading it into target systems using a visual mapping and workflow designer.
