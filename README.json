@@ -12,11 +12,12 @@
             "archived": false,
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-27T21:16:14Z",
+            "last_commit": "2026-08-28T22:27:46Z",
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46622
-          }
+            "stars": 46631
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 139199684,
             "language": "Python",
-            "last_commit": "2026-08-27T21:33:49Z",
+            "last_commit": "2026-08-28T13:46:43Z",
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23699
-          }
+            "stars": 23709
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-18T11:15:46Z",
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18767
-          }
+            "stars": 18768
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Workflow Management/Engines"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-27T19:36:15Z",
             "owner": "jenkinsci",
             "repo": "jenkins",
-            "stars": 26506
-          }
+            "stars": 26513
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Job Scheduling"
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 206317,
             "language": "Java",
-            "last_commit": "2026-08-27T17:53:05Z",
+            "last_commit": "2026-08-28T18:16:49Z",
             "owner": "apache",
             "repo": "camel",
-            "stars": 6301
-          }
+            "stars": 6304
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Java"
@@ -107,11 +112,12 @@
                 "archived": false,
                 "id": 263727855,
                 "language": "Rust",
-                "last_commit": "2026-08-27T14:00:46Z",
+                "last_commit": "2026-08-28T19:38:14Z",
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39521
-              }
+                "stars": 39533
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -125,8 +131,9 @@
                 "last_commit": "2026-08-24T18:46:39Z",
                 "owner": "dask",
                 "repo": "dask",
-                "stars": 13898
-              }
+                "stars": 13901
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -137,11 +144,12 @@
                 "archived": false,
                 "id": 53548867,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:10:59Z",
+                "last_commit": "2026-08-28T21:35:03Z",
                 "owner": "dbt-labs",
                 "repo": "dbt-core",
-                "stars": 13703
-              }
+                "stars": 13710
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -155,8 +163,9 @@
                 "last_commit": "2026-08-06T06:51:35Z",
                 "owner": "jd",
                 "repo": "tenacity",
-                "stars": 8764
-              }
+                "stars": 8767
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -171,7 +180,8 @@
                 "owner": "martinblech",
                 "repo": "xmltodict",
                 "stars": 5752
-              }
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -182,11 +192,12 @@
                 "archived": false,
                 "id": 756594023,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:52:08Z",
+                "last_commit": "2026-08-28T16:43:43Z",
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3881
-              }
+                "stars": 3904
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -201,7 +212,8 @@
                 "owner": "lxml",
                 "repo": "lxml",
                 "stars": 3050
-              }
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -215,8 +227,9 @@
                 "last_commit": "2026-08-19T04:38:48Z",
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2580
-              }
+                "stars": 2582
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -231,7 +244,8 @@
                 "owner": "r1chardj0n3s",
                 "repo": "parse",
                 "stars": 1791
-              }
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -246,7 +260,8 @@
                 "owner": "petl-developers",
                 "repo": "petl",
                 "stars": 1316
-              }
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             },
             {
               "node_type": "item",
@@ -261,7 +276,8 @@
                 "owner": "ICRAR",
                 "repo": "ijson",
                 "stars": 1092
-              }
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
             }
           ],
           "description": null,
@@ -287,7 +303,8 @@
             "owner": "sparklemotion",
             "repo": "nokogiri",
             "stars": 6277
-          }
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -302,7 +319,8 @@
             "owner": "jeremyevans",
             "repo": "sequel",
             "stars": 5091
-          }
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -317,7 +335,8 @@
             "owner": "embulk",
             "repo": "embulk",
             "stars": 1783
-          }
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -332,7 +351,8 @@
             "owner": "thbar",
             "repo": "kiba",
             "stars": 1775
-          }
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Ruby"
@@ -349,11 +369,12 @@
             "archived": false,
             "id": 313853293,
             "language": "Go",
-            "last_commit": "2026-08-27T19:43:34Z",
+            "last_commit": "2026-08-28T14:37:52Z",
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6498
-          }
+            "stars": 6502
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         },
         {
           "node_type": "item",
@@ -368,7 +389,8 @@
             "owner": "pachyderm",
             "repo": "pachyderm",
             "stars": 6308
-          }
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Go"
@@ -385,11 +407,12 @@
             "archived": false,
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:43:34Z",
+            "last_commit": "2026-08-28T22:29:58Z",
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 202623
-          }
+            "stars": 202713
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "ETL Tools (GUI)"
@@ -409,15 +432,16 @@
             "last_commit": "2026-08-04T07:45:32Z",
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6624
-          }
+            "stars": 6625
+          },
+          "first_seen": "2026-08-28T22:34:50.553Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:31:56.370Z",
+    "last_updated": "2026-08-28T22:34:50.553Z",
     "original_repository_info": {
       "archived": false,
       "id": 43790983,
