@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "homepage": "https://airflow.apache.org/",
             "id": 33884891,
             "language": "Python",
-            "last_commit": "2026-08-28T22:27:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:03:00Z",
+            "open_issues": 1982,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46631
+            "stars": 46630,
+            "topics": [
+              "airflow",
+              "apache",
+              "apache-airflow",
+              "automation",
+              "dag",
+              "data-engineering",
+              "data-integration",
+              "data-orchestrator",
+              "data-pipelines",
+              "data-science",
+              "elt",
+              "etl",
+              "machine-learning",
+              "mlops",
+              "orchestration",
+              "python",
+              "scheduler",
+              "workflow",
+              "workflow-engine",
+              "workflow-orchestration"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -26,12 +52,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "homepage": "https://prefect.io",
             "id": 139199684,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:46:43Z",
+            "open_issues": 861,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23709
+            "stars": 23712,
+            "topics": [
+              "automation",
+              "data",
+              "data-engineering",
+              "data-ops",
+              "data-science",
+              "infrastructure",
+              "ml-ops",
+              "observability",
+              "orchestration",
+              "pipeline",
+              "prefect",
+              "python",
+              "workflow",
+              "workflow-engine"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -42,12 +88,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.",
+            "homepage": null,
             "id": 5888353,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
+            "open_issues": 170,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18768
+            "stars": 18768,
+            "topics": [
+              "hadoop",
+              "luigi",
+              "orchestration-framework",
+              "python",
+              "scheduling"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -64,12 +121,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jenkins automation server",
+            "homepage": "https://www.jenkins.io",
             "id": 1103607,
             "language": "Java",
-            "last_commit": "2026-08-27T19:36:15Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:39:56Z",
+            "open_issues": 3612,
             "owner": "jenkinsci",
             "repo": "jenkins",
-            "stars": 26513
+            "stars": 26513,
+            "topics": [
+              "cicd",
+              "continuous-delivery",
+              "continuous-deployment",
+              "continuous-integration",
+              "devops",
+              "groovy",
+              "hacktoberfest",
+              "java",
+              "jenkins",
+              "pipelines-as-code"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -86,12 +159,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Camel is an open source integration framework with 350+ connectors. Write routes in Java, YAML, or XML. Run on Spring Boot, Quarkus, or standalone. Apache License 2.0.",
+            "homepage": "https://camel.apache.org",
             "id": 206317,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:16:49Z",
+            "open_issues": 27,
             "owner": "apache",
             "repo": "camel",
-            "stars": 6304
+            "stars": 6304,
+            "topics": [
+              "camel",
+              "cloud-native",
+              "data-transformation",
+              "enterprise-integration-patterns",
+              "integration",
+              "integration-framework",
+              "java",
+              "kafka",
+              "kubernetes",
+              "mcp",
+              "microservices",
+              "middleware",
+              "quarkus",
+              "rest-api",
+              "spring-boot",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -110,12 +205,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+                "homepage": "https://docs.pola.rs",
                 "id": 263727855,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-28T19:38:14Z",
+                "open_issues": 2870,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39533
+                "stars": 39536,
+                "topics": [
+                  "arrow",
+                  "dataframe",
+                  "dataframe-library",
+                  "dataframes",
+                  "out-of-core",
+                  "polars",
+                  "python",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -126,12 +235,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parallel computing with task scheduling",
+                "homepage": "https://dask.org",
                 "id": 28782747,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:46:39Z",
+                "open_issues": 1317,
                 "owner": "dask",
                 "repo": "dask",
-                "stars": 13901
+                "stars": 13901,
+                "topics": [
+                  "dask",
+                  "numpy",
+                  "pandas",
+                  "pydata",
+                  "python",
+                  "scikit-learn",
+                  "scipy"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -142,12 +264,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+                "homepage": "https://getdbt.com",
                 "id": 53548867,
                 "language": "Rust",
-                "last_commit": "2026-08-28T21:35:03Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:08:00Z",
+                "open_issues": 1545,
                 "owner": "dbt-labs",
                 "repo": "dbt-core",
-                "stars": 13710
+                "stars": 13715,
+                "topics": [
+                  "analytics",
+                  "business-intelligence",
+                  "data-modeling",
+                  "dbt-viewpoint",
+                  "elt",
+                  "pypa",
+                  "slack"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -158,12 +293,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retrying library for Python",
+                "homepage": "http://tenacity.readthedocs.io",
                 "id": 65468547,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T06:51:35Z",
+                "open_issues": 47,
                 "owner": "jd",
                 "repo": "tenacity",
-                "stars": 8767
+                "stars": 8767,
+                "topics": [
+                  "failure",
+                  "hacktoberfest",
+                  "python",
+                  "retry",
+                  "retry-library"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -174,12 +320,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module that makes working with XML feel like you are working with JSON",
+                "homepage": null,
                 "id": 4053456,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-19T19:04:24Z",
+                "open_issues": 5,
                 "owner": "martinblech",
                 "repo": "xmltodict",
-                "stars": 5752
+                "stars": 5752,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -190,12 +341,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+                "homepage": "https://getbruin.com/docs/ingestr/",
                 "id": 756594023,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:43:43Z",
+                "open_issues": 32,
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3904
+                "stars": 3909,
+                "topics": [
+                  "bigquery",
+                  "copy-database",
+                  "data-ingestion",
+                  "data-integration",
+                  "data-pipeline",
+                  "duckdb",
+                  "ingestion-pipeline",
+                  "mssql",
+                  "postgresql",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -206,12 +373,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The lxml XML toolkit for Python",
+                "homepage": "https://lxml.de/",
                 "id": 1353927,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-25T14:33:58Z",
+                "open_issues": 12,
                 "owner": "lxml",
                 "repo": "lxml",
-                "stars": 3050
+                "stars": 3050,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -222,12 +394,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does.",
+                "homepage": "https://hamilton.apache.org/",
                 "id": 605682921,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T04:38:48Z",
+                "open_issues": 156,
                 "owner": "apache",
                 "repo": "hamilton",
-                "stars": 2582
+                "stars": 2582,
+                "topics": [
+                  "dag",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "dataframe",
+                  "etl",
+                  "etl-framework",
+                  "etl-pipeline",
+                  "feature-engineering",
+                  "hacktoberfest",
+                  "lineage",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "orchestration",
+                  "pandas",
+                  "python",
+                  "rag",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -238,12 +435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse strings using a specification based on the Python format() syntax.",
+                "homepage": "http://pypi.python.org/pypi/parse",
                 "id": 2793435,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-01T05:49:14Z",
+                "open_issues": 38,
                 "owner": "r1chardj0n3s",
                 "repo": "parse",
-                "stars": 1791
+                "stars": 1791,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -254,12 +456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Extract Transform and Load Tables of Data",
+                "homepage": null,
                 "id": 2233194,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:06:36Z",
+                "open_issues": 88,
                 "owner": "petl-developers",
                 "repo": "petl",
-                "stars": 1316
+                "stars": 1316,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             },
@@ -270,12 +477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Iterative JSON parser with Pythonic interfaces",
+                "homepage": "http://pypi.python.org/pypi/ijson/",
                 "id": 191300063,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-10T22:59:16Z",
+                "open_issues": 11,
                 "owner": "ICRAR",
                 "repo": "ijson",
-                "stars": 1092
+                "stars": 1092,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
             }
@@ -297,12 +509,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.",
+            "homepage": "https://nokogiri.org/",
             "id": 33945,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:18:56Z",
+            "open_issues": 115,
             "owner": "sparklemotion",
             "repo": "nokogiri",
-            "stars": 6277
+            "stars": 6277,
+            "topics": [
+              "libxml2",
+              "libxslt",
+              "nokogiri",
+              "ruby",
+              "ruby-gem",
+              "sax",
+              "xerces",
+              "xml",
+              "xslt"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -313,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sequel: The Database Toolkit for Ruby",
+            "homepage": "http://sequel.jeremyevans.net",
             "id": 5954,
             "language": "Ruby",
-            "last_commit": "2026-08-25T23:31:42Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:51:35Z",
+            "open_issues": 0,
             "owner": "jeremyevans",
             "repo": "sequel",
-            "stars": 5091
+            "stars": 5091,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -329,12 +561,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embulk: Pluggable Bulk Data Loader.",
+            "homepage": "https://www.embulk.org/",
             "id": 24084730,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-19T12:52:35Z",
+            "open_issues": 162,
             "owner": "embulk",
             "repo": "embulk",
-            "stars": 1783
+            "stars": 1783,
+            "topics": [
+              "bulk-loader",
+              "embulk"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -345,12 +585,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data processing & ETL framework for Ruby",
+            "homepage": "https://www.kiba-etl.org",
             "id": 11515100,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-10T19:13:05Z",
+            "open_issues": 0,
             "owner": "thbar",
             "repo": "kiba",
-            "stars": 1775
+            "stars": 1775,
+            "topics": [
+              "data",
+              "etl",
+              "etl-ruby",
+              "ruby",
+              "rubydatascience"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -367,12 +618,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+            "homepage": "https://cloudquery.io",
             "id": 313853293,
             "language": "Go",
-            "last_commit": "2026-08-28T14:37:52Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-29T01:00:15Z",
+            "open_issues": 167,
             "owner": "cloudquery",
             "repo": "cloudquery",
-            "stars": 6502
+            "stars": 6502,
+            "topics": [
+              "airbyte",
+              "attack-surface-management",
+              "aws",
+              "azure",
+              "bigquery",
+              "cspm",
+              "data",
+              "data-analysis",
+              "data-collection",
+              "data-engineering",
+              "data-integration",
+              "elt",
+              "etl",
+              "etl-framework",
+              "gcp",
+              "github-api",
+              "go",
+              "google",
+              "kubernetes",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         },
@@ -383,12 +660,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-Centric Pipelines and Data Versioning",
+            "homepage": "https://www.pachyderm.com/",
             "id": 23653453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T22:27:18Z",
+            "open_issues": 940,
             "owner": "pachyderm",
             "repo": "pachyderm",
-            "stars": 6308
+            "stars": 6308,
+            "topics": [
+              "analytics",
+              "big-data",
+              "containers",
+              "data-analysis",
+              "data-science",
+              "distributed-systems",
+              "docker",
+              "go",
+              "kubernetes",
+              "pachyderm"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -405,12 +698,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "homepage": "https://n8n.io",
             "id": 193215554,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T22:29:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:02:59Z",
+            "open_issues": 1117,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 202713
+            "stars": 202732,
+            "topics": [
+              "ai",
+              "apis",
+              "automation",
+              "cli",
+              "data-flow",
+              "development",
+              "integration-framework",
+              "integrations",
+              "ipaas",
+              "low-code",
+              "low-code-platform",
+              "mcp",
+              "mcp-client",
+              "mcp-server",
+              "n8n",
+              "no-code",
+              "self-hosted",
+              "typescript",
+              "workflow",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -427,12 +746,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin",
+            "homepage": null,
             "id": 22013111,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-04T07:45:32Z",
+            "open_issues": 34,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6625
+            "stars": 6625,
+            "topics": [
+              "awesome-list",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T22:34:50.553Z"
         }
@@ -441,15 +768,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:34:50.553Z",
+    "last_updated": "2026-08-29T04:19:31.647Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome ETL frameworks, libraries, and software.",
+      "homepage": null,
       "id": 43790983,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-01T06:27:21Z",
+      "open_issues": 11,
       "owner": "pawl",
       "repo": "awesome-etl",
-      "stars": 3586
+      "stars": 3586,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "etl"
+      ]
     },
     "original_repository_sha": "4fd0caac38a9b19af09221484b0421a67fd42352",
     "enhanced_repository": "enhansome/enhansome-etl",
