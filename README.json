@@ -15,11 +15,11 @@
             "id": 33884891,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T17:11:35Z",
-            "open_issues": 2104,
+            "last_commit": "2026-09-26T16:23:41Z",
+            "open_issues": 1887,
             "owner": "apache",
             "repo": "airflow",
-            "stars": 46971,
+            "stars": 46986,
             "topics": [
               "airflow",
               "apache",
@@ -57,11 +57,11 @@
             "id": 139199684,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:41:05Z",
-            "open_issues": 858,
+            "last_commit": "2026-09-26T08:18:02Z",
+            "open_issues": 849,
             "owner": "PrefectHQ",
             "repo": "prefect",
-            "stars": 23922,
+            "stars": 23930,
             "topics": [
               "automation",
               "data",
@@ -94,10 +94,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-07-18T11:15:46Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "spotify",
             "repo": "luigi",
-            "stars": 18778,
+            "stars": 18779,
             "topics": [
               "hadoop",
               "luigi",
@@ -126,8 +126,8 @@
             "id": 1103607,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:08:12Z",
-            "open_issues": 3617,
+            "last_commit": "2026-09-26T14:07:21Z",
+            "open_issues": 3607,
             "owner": "jenkinsci",
             "repo": "jenkins",
             "stars": 26590,
@@ -164,11 +164,11 @@
             "id": 206317,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T16:44:29Z",
-            "open_issues": 79,
+            "last_commit": "2026-09-26T13:51:07Z",
+            "open_issues": 85,
             "owner": "apache",
             "repo": "camel",
-            "stars": 6342,
+            "stars": 6343,
             "topics": [
               "camel",
               "cloud-native",
@@ -210,11 +210,11 @@
                 "id": 263727855,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-09-25T14:46:42Z",
-                "open_issues": 2930,
+                "last_commit": "2026-09-26T15:25:00Z",
+                "open_issues": 2935,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39860,
+                "stars": 39869,
                 "topics": [
                   "arrow",
                   "dataframe",
@@ -224,6 +224,35 @@
                   "polars",
                   "python",
                   "rust"
+                ]
+              },
+              "first_seen": "2026-08-28T22:34:50.553Z"
+            },
+            {
+              "node_type": "item",
+              "title": "dbt-core",
+              "description": "\"enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+                "homepage": "https://getdbt.com",
+                "id": 53548867,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-26T12:26:14Z",
+                "open_issues": 1625,
+                "owner": "dbt-labs",
+                "repo": "dbt",
+                "stars": 13933,
+                "topics": [
+                  "analytics",
+                  "business-intelligence",
+                  "data-modeling",
+                  "dbt-viewpoint",
+                  "elt",
+                  "pypa",
+                  "slack"
                 ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
@@ -241,10 +270,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T18:46:39Z",
-                "open_issues": 1341,
+                "open_issues": 1343,
                 "owner": "dask",
                 "repo": "dask",
-                "stars": 13926,
+                "stars": 13927,
                 "topics": [
                   "dask",
                   "numpy",
@@ -253,35 +282,6 @@
                   "python",
                   "scikit-learn",
                   "scipy"
-                ]
-              },
-              "first_seen": "2026-08-28T22:34:50.553Z"
-            },
-            {
-              "node_type": "item",
-              "title": "dbt-core",
-              "description": "\"enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.\"",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
-                "homepage": "https://getdbt.com",
-                "id": 53548867,
-                "language": "Rust",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-25T16:59:50Z",
-                "open_issues": 1611,
-                "owner": "dbt-labs",
-                "repo": "dbt",
-                "stars": 13924,
-                "topics": [
-                  "analytics",
-                  "business-intelligence",
-                  "data-modeling",
-                  "dbt-viewpoint",
-                  "elt",
-                  "pypa",
-                  "slack"
                 ]
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
@@ -302,7 +302,7 @@
                 "open_issues": 64,
                 "owner": "jd",
                 "repo": "tenacity",
-                "stars": 8795,
+                "stars": 8797,
                 "topics": [
                   "failure",
                   "hacktoberfest",
@@ -346,11 +346,11 @@
                 "id": 756594023,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T17:14:35Z",
+                "last_commit": "2026-09-25T17:38:17Z",
                 "open_issues": 20,
                 "owner": "bruin-data",
                 "repo": "ingestr",
-                "stars": 3976,
+                "stars": 3981,
                 "topics": [
                   "bigquery",
                   "copy-database",
@@ -378,11 +378,11 @@
                 "id": 1353927,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T11:45:20Z",
+                "last_commit": "2026-09-26T09:38:41Z",
                 "open_issues": 13,
                 "owner": "lxml",
                 "repo": "lxml",
-                "stars": 3060,
+                "stars": 3061,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
@@ -399,7 +399,7 @@
                 "id": 605682921,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:23:12Z",
+                "last_commit": "2026-09-25T22:08:17Z",
                 "open_issues": 163,
                 "owner": "apache",
                 "repo": "hamilton",
@@ -465,7 +465,7 @@
                 "open_issues": 81,
                 "owner": "petl-developers",
                 "repo": "petl",
-                "stars": 1318,
+                "stars": 1317,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:34:50.553Z"
@@ -518,7 +518,7 @@
             "open_issues": 128,
             "owner": "sparklemotion",
             "repo": "nokogiri",
-            "stars": 6282,
+            "stars": 6283,
             "topics": [
               "libxml2",
               "libxslt",
@@ -545,7 +545,7 @@
             "id": 5954,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-25T04:18:31Z",
+            "last_commit": "2026-09-26T00:33:27Z",
             "open_issues": 0,
             "owner": "jeremyevans",
             "repo": "sequel",
@@ -623,8 +623,8 @@
             "id": 313853293,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-23T18:38:37Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-26T04:19:46Z",
+            "open_issues": 170,
             "owner": "cloudquery",
             "repo": "cloudquery",
             "stars": 6525,
@@ -703,11 +703,11 @@
             "id": 193215554,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T17:16:37Z",
-            "open_issues": 1158,
+            "last_commit": "2026-09-26T15:03:17Z",
+            "open_issues": 1108,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 205948,
+            "stars": 206031,
             "topics": [
               "ai",
               "apis",
@@ -755,7 +755,7 @@
             "open_issues": 33,
             "owner": "pditommaso",
             "repo": "awesome-pipeline",
-            "stars": 6628,
+            "stars": 6627,
             "topics": [
               "awesome-list",
               "workflow"
@@ -768,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:29:40.804Z",
+    "last_updated": "2026-09-26T16:41:57.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ETL frameworks, libraries, and software.",
