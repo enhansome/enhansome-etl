@@ -21,9 +21,9 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Workflow Management/Engines
 
-* [Airflow](https://github.com/apache/airflow) ⭐ 47,235 | 🐛 1,882 | 🌐 Python | 📅 2026-10-20 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
-* [prefect](https://github.com/PrefectHQ/prefect) ⭐ 24,045 | 🐛 911 | 🌐 Python | 📅 2026-10-20 - "a workflow orchestration framework for building resilient data pipelines in Python."
-* [Luigi](https://github.com/spotify/luigi) ⭐ 18,783 | 🐛 192 | 🌐 Python | 📅 2026-10-14 - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
+* [Airflow](https://github.com/apache/airflow) ⭐ 47,242 | 🐛 1,919 | 🌐 Python | 📅 2026-10-21 - "Use airflow to author workflows as directed acyclic graphs (DAGs) of tasks. The airflow scheduler executes your tasks on an array of workers while following the specified dependencies. Rich command line utilities make performing complex surgeries on DAGs a snap. The rich user interface makes it easy to visualize pipelines running in production, monitor progress, and troubleshoot issues when needed."
+* [prefect](https://github.com/PrefectHQ/prefect) ⭐ 24,055 | 🐛 920 | 🌐 Python | 📅 2026-10-21 - "a workflow orchestration framework for building resilient data pipelines in Python."
+* [Luigi](https://github.com/spotify/luigi) ⭐ 18,785 | 🐛 192 | 🌐 Python | 📅 2026-10-14 - "a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in."
 * [Argo](https://argoproj.github.io/) - "an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes."
 * [Dagster](https://dagster.io) - "Dagster is a data orchestrator for machine learning, analytics, and ETL. It lets you define pipelines in terms of the data flow between reusable, logical components, then test locally and run anywhere. With a unified view of pipelines and the assets they produce, Dagster can schedule and orchestrate Pandas, Spark, SQL, or anything else that Python can invoke."
 * [Temporal](https://temporal.io) - "a scalable and reliable runtime for durable function executions called Temporal Workflow Executions."
@@ -31,27 +31,27 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Job Scheduling
 
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,676 | 🐛 3,599 | 🌐 Java | 📅 2026-10-20 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,674 | 🐛 3,602 | 🌐 Java | 📅 2026-10-21 - "the leading open-source automation server. Built with Java, it provides over 1000 plugins to support automating virtually anything, so that humans can actually spend their time doing things machines cannot."
 
 ## Java
 
-* [Apache Camel](https://github.com/apache/camel) ⭐ 6,373 | 🐛 70 | 🌐 Java | 📅 2026-10-20 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
+* [Apache Camel](https://github.com/apache/camel) ⭐ 6,375 | 🐛 74 | 🌐 Java | 📅 2026-10-21 - "an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data."
 * [Spring Batch](https://spring.io/projects/spring-batch) - "A lightweight, comprehensive batch framework designed to enable the development of robust batch applications that are vital for the daily operations of enterprise systems."
 
 ## Python
 
 ### Libraries
 
-* [polars](https://github.com/pola-rs/polars) ⭐ 40,134 | 🐛 2,974 | 🌐 Rust | 📅 2026-10-20 - "Extremely fast Query Engine for DataFrames, written in Rust."
-* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 14,051 | 🐛 1,791 | 🌐 Rust | 📅 2026-10-20 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
-* [Dask](https://github.com/dask/dask) ⭐ 13,935 | 🐛 1,375 | 🌐 Python | 📅 2026-09-29 - "a flexible parallel computing library for analytics."
-* [tenacity](https://github.com/jd/tenacity) ⭐ 8,809 | 🐛 77 | 🌐 Python | 📅 2026-10-12 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
+* [polars](https://github.com/pola-rs/polars) ⭐ 40,146 | 🐛 2,970 | 🌐 Rust | 📅 2026-10-21 - "Extremely fast Query Engine for DataFrames, written in Rust."
+* [dbt-core](https://github.com/dbt-labs/dbt-core) ⭐ 14,058 | 🐛 1,807 | 🌐 Rust | 📅 2026-10-21 - "enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications."
+* [Dask](https://github.com/dask/dask) ⭐ 13,935 | 🐛 1,379 | 🌐 Python | 📅 2026-09-29 - "a flexible parallel computing library for analytics."
+* [tenacity](https://github.com/jd/tenacity) ⭐ 8,811 | 🐛 78 | 🌐 Python | 📅 2026-10-12 - "a general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything."
 * [xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,760 | 🐛 13 | 🌐 Python | 📅 2026-08-19 - "Python module that makes working with XML feel like you are working with JSON."
-* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,023 | 🐛 28 | 🌐 Go | 📅 2026-10-20 - "a CLI tool to copy data between any databases with a single command seamlessly."
-* [lxml](https://github.com/lxml/lxml) ⭐ 3,067 | 🐛 17 | 🌐 Python | 📅 2026-10-11 - "the most feature-rich and easy-to-use library for processing XML and HTML in the Python language."
-* [hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,613 | 🐛 186 | 🌐 Jupyter Notebook | 📅 2026-10-20 - "helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
-* [parse](https://github.com/r1chardj0n3s/parse) ⭐ 1,795 | 🐛 51 | 🌐 Python | 📅 2026-10-10 - "Parse strings using a specification based on the Python format() syntax."
-* [PETL](https://github.com/petl-developers/petl) ⭐ 1,323 | 🐛 76 | 🌐 Python | 📅 2026-10-20 - "a general purpose Python package for extracting, transforming and loading tables of data."
+* [ingestr](https://github.com/bruin-data/ingestr) ⭐ 4,026 | 🐛 30 | 🌐 Go | 📅 2026-10-21 - "a CLI tool to copy data between any databases with a single command seamlessly."
+* [lxml](https://github.com/lxml/lxml) ⭐ 3,067 | 🐛 12 | 🌐 Python | 📅 2026-10-21 - "the most feature-rich and easy-to-use library for processing XML and HTML in the Python language."
+* [hamilton](https://github.com/DAGWorks-Inc/hamilton) ⭐ 2,614 | 🐛 188 | 🌐 Jupyter Notebook | 📅 2026-10-21 - "helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage/tracing and metadata. Runs and scales everywhere python does."
+* [parse](https://github.com/r1chardj0n3s/parse) ⭐ 1,797 | 🐛 45 | 🌐 Python | 📅 2026-10-20 - "Parse strings using a specification based on the Python format() syntax."
+* [PETL](https://github.com/petl-developers/petl) ⭐ 1,323 | 🐛 77 | 🌐 Python | 📅 2026-10-20 - "a general purpose Python package for extracting, transforming and loading tables of data."
 * [ijson](https://github.com/ICRAR/ijson) ⭐ 1,097 | 🐛 18 | 🌐 Python | 📅 2026-10-20 - "Iterative JSON parser with Pythonic interfaces."
 * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) - "a Python library for pulling data out of HTML and XML files."
 * [Celery](https://docs.celeryq.dev/) - "an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well."
@@ -76,7 +76,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 ## Go
 
-* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,545 | 🐛 167 | 🌐 Go | 📅 2026-10-20 - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
+* [CloudQuery](https://github.com/cloudquery/cloudquery) ⭐ 6,544 | 🐛 138 | 🌐 Go | 📅 2026-10-21 - "a cloud asset inventory built for platform teams. Sync your cloud infrastructure metadata into your data warehouse, powering insights and automation."
 * [Pachyderm](https://github.com/pachyderm/pachyderm) ⭐ 6,312 | 🐛 940 | 🌐 Go | 📅 2025-02-03 - "provides parallelized processing of multi-stage, language-agnostic pipelines with data versioning and data lineage tracking."
 * [Redpanda Connect](https://www.redpanda.com/connect) - "a declarative data streaming and integration tool with 300+ pre-built connectors, configured via YAML."
 
@@ -105,7 +105,7 @@ Open source tools are strongly preferred. Proprietary or restrictively licensed 
 
 *Warning*: If you're already familiar with a scripting language, GUI ETL tools are not a good replacement for a well structured application written with a scripting language. These tools lack flexibility and are a good example of the ["inner-platform effect"](https://en.wikipedia.org/wiki/Inner-platform_effect). With a large project, you will most likely run into instances where "the tool doesn't do that" and end up implementing something hacky with a script run by the GUI ETL tool. Also, the GUI can conceal complexity and the files these tools generate are impossible to code review. However, the GUI and out-of-the-box functionality can make some tasks simpler, especially for people not comfortable with writing code.
 
-* [N8n](https://github.com/n8n-io/n8n) ⭐ 208,135 | 🐛 1,194 | 🌐 TypeScript | 📅 2026-10-20 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
+* [N8n](https://github.com/n8n-io/n8n) ⭐ 208,236 | 🐛 1,216 | 🌐 TypeScript | 📅 2026-10-21 - "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services."
 * [Apache NiFi](https://nifi.apache.org/) - "a rich, web-based interface for designing, controlling, and monitoring a dataflow."
 * [CDAP](https://cdap.io/) - "Use Cask Data Application Platform to visually build and manage data applications in hybrid and multi-cloud environments."
 * [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - An ETL tool for extracting data from source systems, transforming it, and loading it into target systems using a visual mapping and workflow designer.
@@ -128,4 +128,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
